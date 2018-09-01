@@ -1,0 +1,7 @@
+[package]
+name = "kaleidoscope-rs"
+version = "0.1.0"
+authors = ["Seiya Tokui <beam.web@gmail.com>"]
+
+[dependencies]
+llvm-sys = "60"
